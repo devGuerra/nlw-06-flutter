@@ -1,6 +1,8 @@
 <p align="center">
-  <img alt="PayFlow" src=".github/payflow-logo.png" width="200px">
+  <img alt="PayFlow" src="https://user-images.githubusercontent.com/6579736/192690980-8c79a4b0-4671-4585-8c70-f0dc8a9c27cb.png" width="200px">
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-flutter?label=stars&message=MIT&color=000000&labelColor=8257e5" alt="Stars">
